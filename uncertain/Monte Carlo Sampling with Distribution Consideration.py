@@ -228,7 +228,7 @@ materials = [
 ]
 
 # 固定样本数量
-n_samples = 500
+n_samples = 2000
 np.random.seed(12345678)  # 设置全局随机种子保证可复现性
 
 # 遍历处理三种材料
